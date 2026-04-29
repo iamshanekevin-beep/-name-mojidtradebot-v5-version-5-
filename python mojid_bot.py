@@ -1,3 +1,0 @@
-08:47:01 | MOJIDTRADEBOT starting...
-08:47:01 | RSI(7) · EMA 5/13/21 · ATR(2)
-08:47:02 | IQ Option connected ✓
